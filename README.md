@@ -1,6 +1,6 @@
 # npmtest-nunjucks
 
-#### test coverage for  [nunjucks (v3.0.0)](https://github.com/mozilla/nunjucks#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-nunjucks.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nunjucks) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nunjucks.svg)](https://travis-ci.org/npmtest/node-npmtest-nunjucks)
+#### basic test coverage for  [nunjucks (v3.0.0)](https://github.com/mozilla/nunjucks#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-nunjucks.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-nunjucks) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-nunjucks.svg)](https://travis-ci.org/npmtest/node-npmtest-nunjucks)
 
 #### A powerful templating engine with inheritance, asynchronous control, and more (jinja2 inspired)
 
@@ -10,7 +10,7 @@
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-nunjucks/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-nunjucks/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-nunjucks/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-nunjucks/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-nunjucks/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-nunjucks/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-nunjucks/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-nunjucks/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-nunjucks/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-nunjucks/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-nunjucks/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-nunjucks/build/coverage.html/index.html)
 
